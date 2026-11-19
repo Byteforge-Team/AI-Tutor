@@ -60,7 +60,7 @@ Backend
 
 Database
 
-- PostgreSQL
+- MYSQL
 
 AI Integration
 
